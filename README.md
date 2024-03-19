@@ -1,7 +1,7 @@
 code for github  
 
-// SPDX-License-Identifier: GPL-3.0
-pragma solidity >=0.8.0;
+// SPDX-License-Identifier: GPL-3.0.1
+pragma solidity >=0.8.
 
 interface Token {
     function balanceOf(address _a) external view returns (uint);
